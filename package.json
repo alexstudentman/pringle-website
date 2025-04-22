@@ -1,0 +1,7 @@
+{
+  "name": "pringle-basic",
+  "version": "1.0.0",
+  "scripts": { 
+    "start": "sirv / public --cors --single --no-clear --port 8000"
+  }
+}
